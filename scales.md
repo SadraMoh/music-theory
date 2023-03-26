@@ -42,9 +42,9 @@ minor: W H W W H W W
 
 ### example of finding the C major scale
 
-W    W    H W    W    W    H
-C C# D D# E F F# G G# A A# B C 
-^ !  ^ !  ! ^ !  ^ !  ^ !  ^ ^
+> W    W    H W    W    W    H  
+> C C# D D# E F F# G G# A A# B C   
+> ^ !  ^ !  ! ^ !  ^ !  ^ !  ^ ^  
 
 
 ## Any major scale can also be found using the `circle of fifths`
