@@ -65,3 +65,16 @@ the order of sharps is as follows `F C G D A E B`
 > `A` is three steps away from `C` (counting clockwise) so there must be three sharps  
 > The first sharp is `F`, followed by `C` and then `G`  
 > `A B C# D E F# G#`  
+
+
+## Notes inside a scale are called `Degree`s  
+
+| degree | name              |
+|--------|-------------------|
+| 1      | tonic             |
+| 2      | supertonic        |
+| 3      | mediant           |
+| 4      | subdominant       |
+| 5      | dominant          |
+| 6      | submediant        |
+| 7      | leading note/tone |
