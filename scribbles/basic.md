@@ -21,6 +21,7 @@ I IV I V: C F C G
 
 I vi ii V: C Am Dm G
 
+IV V iii vi: F G Em Am
 
 ## A minor
 
@@ -33,7 +34,6 @@ Am Bdim C Dm Em F G
 1  2    3 4  5  6 7
 
 I V vi IV: Am Em F Dm
-
 
 ## G minor
 
@@ -85,9 +85,11 @@ B C# D# E F# G# A#
 Chords:
 
 B Cm Dm E F Gm Adim
+1 2  3  4 5 6  7
 
 B7: 1-3-5-7b
     B-D#-F#-A
 
 
+IV V iii vi: 
 
